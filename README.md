@@ -2,7 +2,8 @@
 
 A new Flutter project.
 
-Note App
+Note App.
+
 ![1](https://user-images.githubusercontent.com/49205538/183883180-d81113f7-50ff-42a5-b823-96b311089da6.jpg)
 ![2](https://user-images.githubusercontent.com/49205538/183883187-25e7b5ed-82af-4699-8c2e-23235a197312.jpg)
 ![3](https://user-images.githubusercontent.com/49205538/183883193-6d408c6d-d863-47dd-a011-7799146d007e.jpg)
