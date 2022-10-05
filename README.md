@@ -49,6 +49,14 @@ He can delete the note after it's finished
 - [✅] CLEAN CODE
 - [✅] NULL SAFETY
 - [✅] DATABASES
+
+![provider](https://img.shields.io/badge/provider-FF7800?style=for-the-badge&logo=provider&logoColor=white)
+![Multi language App ](https://img.shields.io/badge/Multi%20language%20App-0175C2?style=for-the-badge&logo=Microsoft%20Translator&logoColor=white)
+![Clean Code ](https://img.shields.io/badge/Clean%20Code-0078D6?style=for-the-badge&logo=Windows%20Terminal&logoColor=white)
+![Null Safety](https://img.shields.io/badge/Null%20Safety-252B2D?style=for-the-badge&logo=Null%20Safety&logoColor=white)
+![Databases](https://img.shields.io/badge/Databases-01B4E4?style=for-the-badge&logo=ONLYOFFICE&logoColor=white)
+
+
 -------------------------------
 
 ## ⚒️ Design Patterns
