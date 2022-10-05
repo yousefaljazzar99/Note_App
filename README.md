@@ -45,7 +45,10 @@ He can delete the note after it's finished
 ## 🖥 Techniques used
 
 - [✅] State Management provider
-
+- [✅] MULTI LANGUAGE APP
+- [✅] CLEAN CODE
+- [✅] NULL SAFETY
+- [✅] DATABASES
 -------------------------------
 
 ## ⚒️ Design Patterns
